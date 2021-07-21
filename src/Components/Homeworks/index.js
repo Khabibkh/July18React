@@ -40,6 +40,14 @@ function Homeworks() {
                     <a href="https://wynisco-bootcamp.netlify.app/"> Link</a>{" "}
                   </td>
                 </tr>
+                <tr>
+                  <th scope="row">3</th>
+                  <td>Homework 3.2</td>
+                  <td>Design a navigation bar</td>
+                  <td>
+                    <a href="https://codepen.io/Khujamberdiev/pen/zYwEKMY"> Link</a>{" "}
+                  </td>
+                </tr>
               </tbody>
             </Table>
           </Container>
@@ -50,3 +58,4 @@ function Homeworks() {
 }
 
 export default Homeworks;
+
